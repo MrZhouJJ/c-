@@ -1,0 +1,6 @@
+﻿  projram.c
+E:\C\program\program\projram.c(70,6): warning C4013: “gets”未定义；假设外部返回 int
+E:\C\program\program\projram.c(96,9): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+E:\C\program\program\projram.c(98,9): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+E:\C\program\program\projram.c(116,27): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  program.vcxproj -> E:\C\program\Debug\program.exe
